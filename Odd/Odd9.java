@@ -1,4 +1,4 @@
-//find the sum of 1 to  n 
+//find the odd of sum  1 to  n 
 import java.util.*;
 public class Odd9 {
     public static void main(String[] args) {
